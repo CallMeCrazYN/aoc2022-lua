@@ -15,6 +15,7 @@ My display of the most loveliest Moonspaghettirecipes for Advent of Code in Lua,
 
 
 <details>
+  <summary> </summary>
   (why would you start indexing arrays at 1???)
 </details>
 
